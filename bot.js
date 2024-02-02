@@ -7,8 +7,8 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮WHATSAPP US : +91 9382400759
+//▮YOUTUBE CHANNELL: https://youtube.com/@souvikart8693?si=M8MMHkYL3nTwzrnt
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -37,17 +37,17 @@ global.APIKeys = {
 global.Api = new (require('./plugins/neoxrApi.js'))(process.env.API_KEY)
 
 //settings
-global.owner = ['+447441437150',''] //owner number ++447441437150
-global.wame = ['+447441437150'] 
-global.pemilik = ['+447441437150'] //owner number ++447441437150
-global.premium = ['+447441437150'] //premium number ++447441437150
-global.pengguna = 'Drips' //username
-global.footer = 'ZIM BOT INC'
-global.botnma = 'ZIM BOT INC' //bot name
-global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['+91 9382400759',''] //owner number +91 9382400759
+global.wame = ['+91 9382400759'] 
+global.pemilik = ['+91 9382400759'] //owner number +91 9382400759
+global.premium = ['+91 9382400759'] //premium number +91 9382400759
+global.pengguna = 'Santu' //username
+global.footer = 'SANTU BOT INC'
+global.botnma = 'SANTU BOT INC' //bot name
+global.botname = 'SANTU BOT V4'
+global.ownernma = 'SANTU' //owner name
+global.packname = 'SANTU' //sticker package name
+global.author = 'By SANTU Memes' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
